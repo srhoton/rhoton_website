@@ -1,0 +1,4 @@
+baseURL = 'https://steverhoton.com/'
+languageCode = 'en-us'
+title = 'Steve Rhoton'
+theme = 'ananke'
