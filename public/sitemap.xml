@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://steverhoton.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
+    <loc>https://steverhoton.com/posts/first-post/</loc>
     <lastmod>2025-04-17T21:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://steverhoton.com/posts/</loc>
     <lastmod>2025-04-17T21:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://steverhoton.com/</loc>
     <lastmod>2025-04-17T21:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://steverhoton.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://steverhoton.com/tags/</loc>
   </url>
 </urlset>

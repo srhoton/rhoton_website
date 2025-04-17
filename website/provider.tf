@@ -4,9 +4,13 @@ terraform {
       source  = "hashicorp/aws"
       version = "~> 4.0"
     }
+    null = {
+      source  = "hashicorp/null"
+      version = "~> 3.0"
+    }
   }
 }
 
 provider "aws" {
-  region = "us-east-1"
+  region = var.region
 }
