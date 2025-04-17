@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Steve Rhoton</title>
+    <link>https://steverhoton.com/posts/</link>
+    <description>Recent content in Posts on Steve Rhoton</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Apr 2025 21:00:00 +0000</lastBuildDate>
+    <atom:link href="https://steverhoton.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://steverhoton.com/posts/first-post/</link>
+      <pubDate>Thu, 17 Apr 2025 21:00:00 +0000</pubDate>
+      <guid>https://steverhoton.com/posts/first-post/</guid>
+      <description>&lt;p&gt;This is my first post on my new Hugo-powered website. I&amp;rsquo;m excited to share more content soon!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
