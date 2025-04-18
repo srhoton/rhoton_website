@@ -7,56 +7,60 @@ weight: 1
 
 # About Me
 
-Welcome to my personal website. I'm Steve Rhoton, a seasoned technology leader with over 20 years of experience in cloud computing, software development, and technical leadership.
+I'm Stephen Rhoton, a Principal Platform Architect and technology leader with extensive experience in cloud architecture, DevOps, and enterprise infrastructure.
 
 ## Professional Experience
 
-### Amazon Web Services (AWS)
-**Principal Solutions Architect** *(2018 - Present)*
+### NetDocuments — Principal Platform Architect, Manager, Infrastructure
+*MARCH 2024 - PRESENT*
 
-As a Principal Solutions Architect at AWS, I work with strategic enterprise customers to design and implement cloud-native solutions. I specialize in:
-- Architecting scalable, resilient, and secure cloud infrastructures
-- Helping organizations navigate their cloud transformation journeys
-- Providing technical leadership and mentorship to teams and customers
-- Developing best practices for cloud adoption and optimization
+As Principal Architect, I'm guiding an on-premises migration to AWS for a multi-billion item document store and associated web services. My responsibilities include:
+- Designing and managing observability implementation for all AWS services
+- Implementing DevOps pipeline for AWS and AWS GovCloud blue/green deployments
+- Writing and guiding security implementation for AWS migration
 
-### Rackspace
-**Director of Professional Services** *(2015 - 2018)*
+### Dealerware — Principal Platform Architect, Manager, Data And Platform
+*DECEMBER 2022 - MARCH 2024*
 
-Led a team of cloud architects and consultants delivering professional services to enterprise customers. Responsible for:
-- Building and scaling the professional services organization
-- Developing service offerings and methodologies
-- Managing customer relationships and ensuring delivery excellence
-- Driving revenue growth and operational efficiency
+Led the architectural transformation of a Rails monolith to an event-driven Kafka-based service architecture. Key accomplishments:
+- Redesigned and managed DevOps and CI/CD platform to be developer-driven and self-service
+- Rebuilt integrated Data Platform using AWS DMS, Glue, S3, and Snowflake
+- Introduced MLOps AI (LLMs) to automate IaC and CI/CD deployments
+- Built LLM POC for telemetry data with AWS Bedrock
 
-### Cloudnexa
-**Chief Technology Officer** *(2012 - 2015)*
+### TeleTracking — Infrastructure Architect
+*APRIL 2022 - DECEMBER 2022*
 
-Served as CTO for this AWS Premier Consulting Partner, where I:
-- Established the technical vision and strategy for the company
-- Built and led the engineering and solutions architecture teams
-- Developed cloud management platforms and automation solutions
-- Drove innovation in cloud service delivery and management
+Designed and implemented new EKS infrastructure using AWS Blueprints and Terraform, with focus on:
+- Developing advanced RBAC into EKS clusters using AWS SSO integration
+- Building custom ECS multi-account SaaS infrastructure
+- Contributing to the terraform-aws-eks-blueprints project
 
-### Previous Experience
-I've held various technical and leadership roles throughout my career, including positions at Accenture and several technology startups. My background spans software development, systems engineering, and technical consulting.
+### Previous Roles
 
-## Expertise
-- Cloud Architecture & Strategy
-- AWS Services & Solutions
-- DevOps & Infrastructure as Code
+- **Life360** — Senior Manager, Tools and Infrastructure (2022)
+- **Zoll Lifevest** — Manager, Software Operations (2019-2021)
+- **Crown Castle** — Applications Architect (2019)
+- **PNC** — VP Senior Applications Architect, Retail Applications (2018)
+- **Carnegie Mellon University** — Enterprise Cloud Architect and Senior Manager, Network Development (2007-2018)
+
+## Skills & Expertise
+
+- Cloud Architecture (AWS, Kubernetes, Containers)
+- DevOps & CI/CD Implementation
 - Enterprise Architecture
-- Technical Leadership
-- Solution Design & Implementation
-- Cloud Security & Compliance
-- Digital Transformation
+- Infrastructure as Code (Terraform)
+- Microservices & Event-Driven Architecture
+- Data Platform Engineering
+- MLOps & AI Integration
+- Software Development (Ruby, JS, Python, Perl)
+- Budgetary Planning & Team Management
 
-## Education
-- Bachelor's Degree in Computer Science
+## Presentations & Awards
 
-## Certifications
-- AWS Certified Solutions Architect - Professional
-- AWS Certified DevOps Engineer - Professional
-- Various other technical and professional certifications
+- Infrastructure As Code, And Why It Matters (CMU, 2017)
+- Container Deployments: Real World Stories with Our Customers [CNA1766PU] (VMWorld, 2017)
+- Containing the (Undead) Applications (CMU, 2016)
+- Andy Award - Outstanding Innovator (2010)
 
-I'm passionate about helping organizations leverage technology to drive innovation and business value. This website serves as a platform where I share my thoughts, projects, and experiences in the world of cloud computing and beyond.
+I'm passionate about leveraging modern cloud technologies to solve complex business problems and build scalable, resilient systems. This website serves as a platform to share my thoughts and experiences in the world of cloud architecture and technology leadership.
