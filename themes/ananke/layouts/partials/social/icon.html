@@ -1,0 +1,19 @@
+{{- $network := .icon -}}
+{{- $setup := .setup -}}
+{{- $label := .label | compare.Default $setup.label -}}
+
+{{- with $setup.icon -}}
+  {{- $icon := resources.Get (fmt.Printf "ananke/socials/%s.svg" .) -}}
+  {{- with $icon -}}
+    <span class="icon">
+      {{ .Content | safe.HTML }}
+    </span>
+  {{- else -}}
+    <span class="icon icon-missing" title="Missing icon for {{ $label }}">
+      {{/* Fallback to label text if icon is missing */}}
+      <span class="sr-only">{{ $label }}</span>
+    </span>
+  {{- end -}}
+{{- else -}}
+  {{- $label -}}
+{{- end -}}
