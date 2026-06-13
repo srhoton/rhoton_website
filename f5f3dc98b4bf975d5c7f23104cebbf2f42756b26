@@ -1,0 +1,6 @@
+Session Prompts:
+- Identify security/package updates & run performance/quality agents
+- Review repository code
+- Address identified issues
+- Perform multi-pass code review
+- Fix icon fallback, remove hardcoded TF vars, and refactor list templates
